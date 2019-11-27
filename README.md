@@ -6,3 +6,9 @@ Hypertension is the second leading cause of death in India following tobacco and
  
 ### Run
 Open CNN.ipynb in Jupyter Labs
+*Directly results are also visible in the Notebook
+
+### Dataset
+[1] Hypertension.csv (Train)
+[2] Healthy.csv (Train)
+[3] Additional.csv (Test)
